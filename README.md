@@ -68,8 +68,6 @@ npm install
 npm run dev
 Visit the application at: http://localhost:5173
 
----
-
 ### 3️⃣ **Backend Setup**
 
 Ensure you have **MongoDB (e.g., MongoDB Shell or MongoDB Community Edition)** installed and running.
