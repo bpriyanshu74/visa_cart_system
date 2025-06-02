@@ -29,7 +29,6 @@ const CartDrawer = ({ onClose }) => {
 
   return (
     <>
-      // Cart Drawer
       <div
         className={`fixed top-0 right-0 w-100 h-full bg-white shadow-lg p-4 z-50 flex flex-col ${
           showPayment ? "blur-sm pointer-events-none" : ""
