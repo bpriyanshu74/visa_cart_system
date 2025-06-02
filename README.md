@@ -55,27 +55,30 @@ The UI is responsive, intuitive, and built with modern technologies.
 
 ---
 
-## 🧭 **Installation Guide**
+1️⃣ Requirements
+Installation Guide
+Frontend Setup
+Backend Setup
 
-### 1️⃣ **Clone the Repository**
-
-git clone [https://github.com/bpriyanshu74/visa_cart_system]
-
-### 2️⃣ **Frontend Setup**
-```
-cd frontend
-npm install
-npm run dev
+2️⃣ Installation Guide
+Clone the Repository
+bash
+git clone https://github.com/bpriyanshu74/visa_cart_system  
+3️⃣ Frontend Setup
+bash
+cd frontend  
+npm install  
+npm run dev  
 Visit the application at: http://localhost:5173
 
-### 3️⃣ **Backend Setup**
+4️⃣ Backend Setup
+Ensure you have MongoDB (e.g., MongoDB Shell or MongoDB Community Edition) installed and running.
 
-Ensure you have **MongoDB (e.g., MongoDB Shell or MongoDB Community Edition)** installed and running.
-```
-cd backend
-npm install
-node seed
-node server
+bash
+cd backend  
+npm install  
+node seed  
+node server  
 
 ---
 
