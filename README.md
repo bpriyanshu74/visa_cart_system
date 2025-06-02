@@ -1,6 +1,6 @@
 # Visa Cart System
 
-### 🛂 A Simplified Service Selection and Payment Flow for Visa Applications
+#### 🛂 A Simplified Service Selection and Payment Flow for Visa Applications
 
 ---
 ## 🚀 **Description**
@@ -25,6 +25,17 @@ The UI is responsive, intuitive, and built with modern technologies.
 
 ---
 
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/a4949cc3-3833-4db4-9d6f-96d347055a85" width="250" style="margin-right:10px" />
+  <img src="https://github.com/user-attachments/assets/8d160df2-7177-475e-bafe-2a9f664bea2f" width="250" style="margin-right:10px" />
+  <img src="https://github.com/user-attachments/assets/3a8b147e-92d2-4fae-92a4-462fd26d9555" width="250" />
+</p>
+
+<p float="left" style="margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/ccd6c615-fcc7-4682-a9f4-c4c1d226eae8" width="250" style="margin-right:10px" />
+  <img src="https://github.com/user-attachments/assets/2dbccc57-4a97-4014-b41d-21ed539eef56" width="250" />
+</p>
 ## 🧩 **Key Components**
 
 - **ProductCard** – Displays individual visa services with "Add to Cart" functionality.
@@ -66,12 +77,11 @@ The UI is responsive, intuitive, and built with modern technologies.
 ## 🧭 **Installation Guide**
 
 ### 1️⃣ **Clone the Repository**
-```bash
-git clone <repository-url>
+
+git clone [<repository-url>](https://github.com/bpriyanshu74/visa_cart_system)
 
 ### 2️⃣ **Frontend Setup**
 
-```bash
 cd frontend
 npm install
 npm run dev
@@ -82,7 +92,6 @@ Visit the application at: http://localhost:5173
 
 Ensure you have **MongoDB (e.g., MongoDB Shell or MongoDB Community Edition)** installed and running.
 
-```bash
 cd backend
 npm install
 node seed
@@ -90,7 +99,7 @@ node server
 
 ---
 
-## **Future Scope**
+# ***Future Scope***
 
 - 💳 **Real Payment Integration**: Integrate real-world payment gateways such as Stripe or Razorpay for actual transactions.
 - 🌍 **Multi-Language Support**: Expand the app to support multiple languages for a global user base.
