@@ -3,24 +3,25 @@
 ### 🛂 A Simplified Service Selection and Payment Flow for Visa Applications
 
 ---
-
-## 📸 **Project Preview**  
-<!-- Attach screenshots here --> 
-|-----------|-------------|--------------|  
-![Home](https://github.com/user-attachments/assets/a4949cc3-3833-4db4-9d6f-96d347055a85)
-![Footer](https://github.com/user-attachments/assets/8d160df2-7177-475e-bafe-2a9f664bea2f)
-![Cart](https://github.com/user-attachments/assets/3a8b147e-92d2-4fae-92a4-462fd26d9555)
-![Payment](https://github.com/user-attachments/assets/ccd6c615-fcc7-4682-a9f4-c4c1d226eae8)
-![orderConfirmation](https://github.com/user-attachments/assets/2dbccc57-4a97-4014-b41d-21ed539eef56)
-
-
----
-
-## 🚀 **Overview**
+## 🚀 **Description**
 
 The **Visa Cart System** is a user-friendly platform designed to streamline visa services.  
 Users can explore services, add them to a cart, receive discounts on multiple categories, and simulate payments—all in one seamless flow.  
 The UI is responsive, intuitive, and built with modern technologies.
+
+---
+
+## 📸 **Project Preview**  
+<!-- Attach screenshots here --> 
+![Home](https://github.com/user-attachments/assets/a4949cc3-3833-4db4-9d6f-96d347055a85)
+------
+![Footer](https://github.com/user-attachments/assets/8d160df2-7177-475e-bafe-2a9f664bea2f)
+------
+![Cart](https://github.com/user-attachments/assets/3a8b147e-92d2-4fae-92a4-462fd26d9555)
+------
+![Payment](https://github.com/user-attachments/assets/ccd6c615-fcc7-4682-a9f4-c4c1d226eae8)
+------
+![orderConfirmation](https://github.com/user-attachments/assets/2dbccc57-4a97-4014-b41d-21ed539eef56)
 
 ---
 
@@ -89,7 +90,7 @@ node server
 
 ---
 
-### 4️⃣ **Future Scope**
+## **Future Scope**
 
 - 💳 **Real Payment Integration**: Integrate real-world payment gateways such as Stripe or Razorpay for actual transactions.
 - 🌍 **Multi-Language Support**: Expand the app to support multiple languages for a global user base.
